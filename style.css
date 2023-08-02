@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+}
+
+.navbar ul{
+    color: white;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding:10px
+}
+
+.logo1{
+    display: flex;
+    width: 10rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.extras1{
+    display: flex;
+    margin-left: 25rem;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnOne{
+    margin-left: 29rem;
+    background-color: gold;
+    height: 3rem;
+    width: 10rem;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+.heading{
+    font-size: 3rem;
+    width: 32rem;
+    margin-top: 1rem;
+}
+
+.container p{
+    width: 32rem;
+}
+
+.containerOne{
+    background-color: black;
+    height: 3rem;
+    display: inline-flex;
+    align-items: center;
+    margin: 2rem;  
+}
+
+.insideContainer{
+    display: inline-flex;
+    margin-left: 3rem;
+    gap: 13rem;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.container{
+    color: white;
+}
+
+.containerTwo{
+    display: inline-flex;
+    margin-left: 6rem;
+    gap: 13rem;
+    margin-bottom: 3rem;
+}
+
+.heading3{
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.leftPart{
+    width: 33rem;
+}
+
+.rightPart{
+    width: 33rem; 
+}
+
+.heading3{
+    color: white;
+}
+
+.leftPart p{
+    color: white;
+}
+
+.rightPart h3{
+    color: white;
+}
+
+.rightPart p{
+    color: white;
+}
+
+.containerThree{
+    background-color: rgb(51, 51, 51);
+    margin-bottom: 2rem;
+    height: 15rem;
+}
+
+.extraItems{
+    display: inline-flex;
+    gap: 13rem;
+}
+
+.leftText{
+    width: 33rem;
+    color: white;
+    margin-left: 6rem;
+}
+
+.rightText{
+    color: white;
+    width: 34rem;
+}
+
+.containerFour{
+    color: white;
+    margin-left: 6rem;
+}
+
+.containerFour > h2{
+    font-size: 2.5rem;
+}
+
+.containerFour > p{
+    width: 26rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.btnTwo{
+    background-color: gold;
+    height: 3rem;
+    width: 10rem;
+    padding: 10px;
+    font-weight: bolder;
+    margin-bottom: 3rem;
+}
+
+.footer{
+    background-color: rgb(51, 51, 51);
+    color: white;
+    display: flex;
+    height: 2rem;
+}
+
+.footer > ul{
+    display: inline-flex;
+    gap: 52rem;
+}
+
+.extras{
+    display: inline-flex;
+    gap: 1rem;
+    padding: 0.3rem;
+}
+
+.logo4{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 29rem;
+    font-weight: bolder;
+}
